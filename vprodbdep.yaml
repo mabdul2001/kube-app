@@ -14,10 +14,7 @@ spec:
       labels:
         app: vprodb
     spec:
-
-
       containers:
-
         - name: vprodb
           image: mabdul2001/vprofiledb:V1
           args:
